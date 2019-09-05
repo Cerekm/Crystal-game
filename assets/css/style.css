@@ -1,0 +1,58 @@
+body {
+    background-color: #87e5ff;
+}
+.crystalCollector {
+    color: white;
+    background-color: orange;
+    height: 80px;
+    width: 300px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 80px;
+
+}
+.instructions {
+    background-color: #ffecbf;
+    color: green;
+    height: 320px;
+    width: 400px;
+    float: right;
+    padding: 50px;
+    text-align: center;
+    vertical-align: middle;
+    
+}
+.randomNumber {
+    background-color:#31d477;
+    height: 110px;
+    width: 250px;
+    color: black;
+    float: left;
+}
+.winLoss {
+    float: left;
+    height: 110px;
+    width: 150px;
+    color: black;
+    background-color:#fc5d5d;
+}
+.gemContainer {
+    float: left;
+}
+.youScore {
+    background-color:#31d477;
+    height: 80px;
+    width: 300px;
+    color: white;
+    float: left;
+
+}
+.score {
+    width: 300px;
+    height: 300px;
+    float: left;
+    color: black;
+    background-color: #31d477;
+
+
+}
