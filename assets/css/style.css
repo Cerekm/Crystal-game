@@ -22,14 +22,21 @@ body {
     vertical-align: middle;
     
 }
-.randomNumber {
+.gNumber {
     background-color:#31d477;
     height: 110px;
     width: 250px;
     color: black;
     float: left;
 }
-.winLoss {
+.wins {
+    float: left;
+    height: 110px;
+    width: 150px;
+    color: black;
+    background-color:#fc5d5d;
+}
+.losses {
     float: left;
     height: 110px;
     width: 150px;
@@ -39,20 +46,11 @@ body {
 .gemContainer {
     float: left;
 }
-.youScore {
+.userNumber {
     background-color:#31d477;
     height: 80px;
     width: 300px;
     color: white;
     float: left;
-
-}
-.score {
-    width: 300px;
-    height: 300px;
-    float: left;
-    color: black;
-    background-color: #31d477;
-
 
 }
